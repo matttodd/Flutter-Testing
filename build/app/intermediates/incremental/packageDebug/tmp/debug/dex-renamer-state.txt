@@ -1,4 +1,4 @@
-#Wed May 01 15:47:36 EDT 2019
-base.0=/usr/lib/flutter/examples/hello_world/build/app/intermediates/transforms/dexMerger/debug/0
+#Wed May 01 16:33:37 EDT 2019
+base.0=/home/matt/IdeaProjects/Flutter-Testing/build/app/intermediates/transforms/dexMerger/debug/0
 path.0=classes.dex
 renamed.0=classes.dex
